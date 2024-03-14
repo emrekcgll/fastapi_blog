@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn
+sqlalchemy
+python-decouple
+
+python-jose[cryptography]
+passlib[bcrypt]
